@@ -1,0 +1,4 @@
+/home/wdolaya/ejercicios_2corte/entrega3_2Cort/build/CMakeFiles/Biblioteca.dir
+/home/wdolaya/ejercicios_2corte/entrega3_2Cort/build/CMakeFiles/SistemaAlquiler.dir
+/home/wdolaya/ejercicios_2corte/entrega3_2Cort/build/CMakeFiles/edit_cache.dir
+/home/wdolaya/ejercicios_2corte/entrega3_2Cort/build/CMakeFiles/rebuild_cache.dir
