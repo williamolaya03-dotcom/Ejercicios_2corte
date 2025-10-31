@@ -1,0 +1,3 @@
+/home/wdolaya/ejercicios_2corte/4ta_entrega/build/CMakeFiles/TiendaOnline.dir
+/home/wdolaya/ejercicios_2corte/4ta_entrega/build/CMakeFiles/edit_cache.dir
+/home/wdolaya/ejercicios_2corte/4ta_entrega/build/CMakeFiles/rebuild_cache.dir

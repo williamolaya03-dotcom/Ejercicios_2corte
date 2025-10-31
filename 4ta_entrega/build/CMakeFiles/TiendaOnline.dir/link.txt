@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TiendaOnline.dir/src/main.cpp.o CMakeFiles/TiendaOnline.dir/src/Producto.cpp.o CMakeFiles/TiendaOnline.dir/src/ItemCarrito.cpp.o CMakeFiles/TiendaOnline.dir/src/CarritoCompras.cpp.o CMakeFiles/TiendaOnline.dir/src/Usuario.cpp.o -o TiendaOnline 
